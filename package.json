@@ -1,5 +1,5 @@
 {
-  "name": "@shopify/shopify-api",
+  "name": "@codeschneider/shopify-api",
   "version": "1.4.1",
   "description": "Shopify API Library for Node - accelerate development with support for authentication, graphql proxy, webhooks",
   "main": "dist/index.js",
